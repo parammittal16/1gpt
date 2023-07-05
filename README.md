@@ -17,7 +17,7 @@ Contributions most welcome.
 <br/>
 
 
-## Chatting 💬
+## Chatting
 
 | Tool Name | Description | Link | Fees |
 |-----------|------|----------------|-------------|
@@ -28,7 +28,7 @@ Contributions most welcome.
 <br/>
 <br/>
 
-## Image generation 🌆
+## Image generation 
 
 | Tool Name | Description | Link | Fees |
 |-----------|------|----------------|-------------|
@@ -39,7 +39,7 @@ Contributions most welcome.
 <br/>
 <br/>
 
-## Miscellaneous 👀
+## Miscellaneous
 
 | Tool Name | Description | Link | Fees |
 |-----------|------|----------------|-------------|
