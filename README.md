@@ -9,9 +9,9 @@ Contributions most welcome.
 * [Chatting](#chatting) 💬
 * [Image Generation](#image-generation) 🌆
 * [Video generation](#video-generation) 📽
-* [Music generation](#music-generation) 📽
-* [Art generation](#art-generation) 📽
-* [Code generation](#code-generation) 📽
+* [Music generation](#music-generation) 🎶
+* [Art generation](#art-generation) 🎨
+* [Code generation](#code-generation) 👨🏻‍💻
 * [Miscellaneous](#miscellaneous) 👀
 
 
