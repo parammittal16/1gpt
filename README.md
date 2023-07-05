@@ -8,6 +8,7 @@ Contributions most welcome.
 
 * [Chatting](#chatting) 💬
 * [Image Generation](#image-generation) 🌆
+* [Video generation](#video-generation) 📽
 * [Miscellaneous](#miscellaneous) 👀
 
 
@@ -21,7 +22,10 @@ Contributions most welcome.
 
 | Tool Name | Description | Link | Fees |
 |-----------|------|----------------|-------------|
-| ChatGPT   | openAI's chatgpt | [Link](https://chat.openai.com) | Free, with paid upgrades |
+| ChatGPT | Conversational AI model by OpenAI | [Link](https://openai.com/) | Subscription-based |
+| DialoGPT | Chatbot by Microsoft | [Link](https://github.com/microsoft/DialoGPT) | Free (open-source) |
+| Cleverbot | AI-powered chatbot | [Link](https://www.cleverbot.com/) | Free trial, subscription for advanced features |
+| Mitsuku | Award-winning chatbot | [Link](https://www.pandorabots.com/mitsuku/) | Free (basic version), subscription for premium features |
 
 <br/>
 <br/>
@@ -33,11 +37,31 @@ Contributions most welcome.
 | Tool Name | Description | Link | Fees |
 |-----------|------|----------------|-------------|
 | RoomGPT   | Redesign rooms in seconds using AI | [Link](https://www.roomgpt.io/) | Free, with paid upgrades   |
+| DALL-E | Image generation based on text prompts | [Link](https://openai.com/research/dall-e) | Not publicly available |
+| DeepArt.io | Neural network-based image generation | [Link](https://deepart.io/) | Free (basic version), subscription for high-resolution images |
+| RunwayML | AI-powered creative toolset | [Link](https://runwayml.com/) | Subscription-based |
+| Artbreeder | Collaborative art platform for image synthesis | [Link](https://www.artbreeder.com/) | Free (basic version), subscription for high-resolution images |
 
 <br/>
 <br/>
 <br/>
 <br/>
+
+## Video generation
+
+| Tool Name | Description | Link | Fees |
+|-----------|------|----------------|-------------|
+| RunwayML | AI-powered creative toolset | [Link](https://runwayml.com/) | Subscription-based |
+| DeepArt.io | Neural network-based video generation | [Link](https://deepart.io/) | Free (basic version), subscription for high-resolution videos |
+| Artisto | Video editing and AI filters | [Link](https://artistoapp.com/) | Free (basic version), in-app purchases for premium features |
+| NVIDIA GauGAN | Interactive video synthesis with AI | [Link](https://www.nvidia.com/en-us/research/ai-playground/) | Free (online version), subscription for advanced features |
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## Miscellaneous
 
