@@ -21,14 +21,14 @@ Contributions most welcome.
 
 | Tool Name | Description | Link | Fees |
 |-----------|------|----------------|-------------|
-| ChatGPT   | openAI's chatgpt | [Link](https://chatgpt.com) | Free, with paid upgrades |
+| ChatGPT   | openAI's chatgpt | [Link](https://chat.openai.com) | Free, with paid upgrades |
 
 <br/>
 <br/>
 <br/>
 <br/>
 
-## Image generation 
+## Image generation
 
 | Tool Name | Description | Link | Fees |
 |-----------|------|----------------|-------------|
